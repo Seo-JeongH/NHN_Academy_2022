@@ -1,0 +1,12 @@
+
+n
+java:S1450"SRemove the "cart" field and declare it as a local variable in the relevant methods.(Óá­šùÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(œè…²
+V	java:S125"<This block of commented-out lines of code should be removed.(¸÷•©øÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(Þ‰ô€ùÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ƒê‚ôúÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(™¾ìð
+A
+java:S1068"+Remove this unused "counter" private field.(Ê¤¼À
+C
+java:S1068"(Remove this unused "cart" private field.(Óá­šùÿÿÿÿ

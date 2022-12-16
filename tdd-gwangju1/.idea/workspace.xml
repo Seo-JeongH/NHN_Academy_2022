@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86c4246d-e893-47af-8de6-2a633ec788ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Refac_prac/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refac_prac/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refac_prac/src/main/java/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refac_prac/src/main/java/Discountable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refac_prac/src/main/java/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tdd-gwangju1_professor/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GvNBDQHHWshfW6VhnbtFsjCvXP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/seo/Desktop/NHN/tdd-gwangju1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.seo.tdd.mart" />
+      <recent name="org.example.seo.tdd.account" />
+      <recent name="org.example.seo.tdd" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.seo.tdd" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.seo.tdd" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.seo.tdd" />
+      <recent name="org.example.seo.tdd.mart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceMockTest.login_passwordIsWrong_throwAccountLockedException">
+    <configuration name="AccountServiceMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-gwangju1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.seo.tdd.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.seo.tdd.account" />
+      <option name="MAIN_CLASS_NAME" value="org.example.seo.tdd.account.AccountServiceMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceMockTest.login_passwordIsWrong_throwAccountLockedException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-gwangju1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.seo.tdd.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.seo.tdd.account" />
+      <option name="MAIN_CLASS_NAME" value="org.example.seo.tdd.account.AccountServiceMockTest" />
+      <option name="METHOD_NAME" value="login_passwordIsWrong_throwAccountLockedException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceMockTest.login_usernameIsNull_throwIllegalArgumentException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-gwangju1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.seo.tdd.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.seo.tdd.account" />
+      <option name="MAIN_CLASS_NAME" value="org.example.seo.tdd.account.AccountServiceMockTest" />
+      <option name="METHOD_NAME" value="login_usernameIsNull_throwIllegalArgumentException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceStubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-gwangju1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.seo.tdd.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.seo.tdd.account" />
+      <option name="MAIN_CLASS_NAME" value="org.example.seo.tdd.account.AccountServiceStubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceStubTest.login_notMatchedPassword_throwLoginFailedException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-gwangju1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.seo.tdd.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.seo.tdd.account" />
+      <option name="MAIN_CLASS_NAME" value="org.example.seo.tdd.account.AccountServiceStubTest" />
+      <option name="METHOD_NAME" value="login_notMatchedPassword_throwLoginFailedException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceMockTest.login_passwordIsWrong_throwAccountLockedException" />
+        <item itemvalue="JUnit.AccountServiceMockTest.login_usernameIsNull_throwIllegalArgumentException" />
+        <item itemvalue="JUnit.AccountServiceMockTest" />
+        <item itemvalue="JUnit.AccountServiceStubTest.login_notMatchedPassword_throwLoginFailedException" />
+        <item itemvalue="JUnit.AccountServiceStubTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86c4246d-e893-47af-8de6-2a633ec788ac" name="Changes" comment="" />
+      <created>1667264963056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667264963056</updated>
+      <workItem from="1667264965246" duration="2630000" />
+      <workItem from="1667267628004" duration="2569000" />
+      <workItem from="1667275480001" duration="45000" />
+      <workItem from="1667275549757" duration="54000" />
+      <workItem from="1667275614151" duration="63000" />
+      <workItem from="1667275703181" duration="968000" />
+      <workItem from="1667276702494" duration="752000" />
+      <workItem from="1667277465778" duration="9536000" />
+      <workItem from="1667290573855" duration="645000" />
+      <workItem from="1667346970046" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

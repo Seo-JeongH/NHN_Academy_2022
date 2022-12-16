@@ -1,0 +1,50 @@
+
+\
+java:S11928"FDefine a constant instead of duplicating this literal "<br/>" 8 times.(šêÀî
+k	java:S116"VRename this field "count_onion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²»é¤
+n	java:S116"TRename this field "count_egg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÉï‡øÿÿÿÿ
+q	java:S116"WRename this field "count_Gonion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿíÇúúÿÿÿÿ
+p	java:S116"VRename this field "count_apple" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãœûðûÿÿÿÿ
+n	java:S116"YRename this field "getCount_onion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¡ŸÂ
+q	java:S116"WRename this field "getCount_egg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Í™£ýÿÿÿÿ
+o	java:S116"ZRename this field "getCount_Gonion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µºä¯
+n	java:S116"YRename this field "getCount_apple" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•æöâ
+n
+java:S1450"SRemove the "cart" field and declare it as a local variable in the relevant methods.(Óá­šùÿÿÿÿ
+s
+java:S1450"XRemove the "foodStand" field and declare it as a local variable in the relevant methods.(Ô™€¬þÿÿÿÿ
+k
+java:S1989#"PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüýÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(Ê•Ñÿùÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'com.nhnacademy.Food'.(¸÷À­ýÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ô™€¬þÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Óá­šùÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(²»é¤
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ˆÉï‡øÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÿíÇúúÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ãœûðûÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(”¡ŸÂ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‰Í™£ýÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(µºä¯
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(•æöâ
+C
+java:S1068"(Remove this unused "cart" private field.(Óá­šùÿÿÿÿ
+H
+java:S1068"2Remove this unused "getCount_onion" private field.(”¡ŸÂ
+K
+java:S1068"0Remove this unused "getCount_egg" private field.(‰Í™£ýÿÿÿÿ
+I
+java:S1068"3Remove this unused "getCount_Gonion" private field.(µºä¯
+H
+java:S1068"2Remove this unused "getCount_apple" private field.(•æöâ

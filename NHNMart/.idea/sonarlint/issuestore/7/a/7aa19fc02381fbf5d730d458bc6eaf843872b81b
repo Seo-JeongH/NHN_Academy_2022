@@ -1,0 +1,80 @@
+
+c
+java:S1192,"MDefine a constant instead of duplicating this literal "<li><a href=" 6 times.(‰Úüä
+s
+java:S1192%"]Define a constant instead of duplicating this literal "í˜„ì¬ ì¹´íŠ¸ì— ìˆëŠ” ìˆ˜ " 6 times.(Œ‘íˆ
+
+java:S1192U"rDefine a constant instead of duplicating this literal "ë§ˆíŠ¸ì˜ ì¬ê³ ë³´ë‹¤ ë§ì´ ê³ ë¥´ì…¨ìŠµë‹ˆë‹¤." 4 times.(šö¿Üüÿÿÿÿ
+p
+java:S1192_"UDefine a constant instead of duplicating this literal ">Go MyCart</a> </li>" 5 times.(¦ùÎ¿ûÿÿÿÿ
+`
+java:S1192&"JDefine a constant instead of duplicating this literal "ì–‘íŒŒ : " 6 times.(Á‚àÌ
+a
+java:S1192_"FDefine a constant instead of duplicating this literal "/cart" 5 times.(¦ùÎ¿ûÿÿÿÿ
+m
+java:S1192#"WDefine a constant instead of duplicating this literal "ì¥ë°”êµ¬ë‹ˆì…ë‹ˆë‹¤." 6 times.(ì‘¦Ê
+`
+java:S1192)"JDefine a constant instead of duplicating this literal "ì‚¬ê³¼ : " 6 times.(ê©×¶
+e
+java:S1192'"JDefine a constant instead of duplicating this literal "ê³„ë€ : " 6 times.(ñÒ×âşÿÿÿÿ
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ƒ˜úüÿÿÿÿ
+k	java:S116"VRename this field "count_onion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òµ´ 
+n	java:S116"TRename this field "count_egg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿì¿üÿÿÿÿ
+l	java:S116"WRename this field "count_Gonion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨İÃ¢
+p	java:S116"VRename this field "count_apple" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ô™‡ÿÿÿÿÿ
+r
+java:S1450"WRemove the "addPrice" field and declare it as a local variable in the relevant methods.(èå£›øÿÿÿÿ
+n
+java:S1450"SRemove the "cart" field and declare it as a local variable in the relevant methods.(Óá­šùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(²¥è¶ùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¼Íéãüÿÿÿÿ
+k
+java:S1989""PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüıÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(¹ä¶Ğ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(¶¡Ë©
+h
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(üª¼í
+o
+java:S1989A"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(«Ôï¯
+o
+java:S1989B"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(®ë¸‰
+n
+java:S1989C"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(üßü}
+o
+java:S1989D"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ãô£‡
+X
+java:S1117F"=Rename "foodStand" which hides the field declared at line 14.(—¬èÿÿÿÿÿ
+k
+java:S1989T"PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüıÿÿÿÿ
+k
+java:S1989e"PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüıÿÿÿÿ
+k
+java:S1989v"PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüıÿÿÿÿ
+l
+java:S1989‡"PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüıÿÿÿÿ
+l
+java:S1989™"PHandle the following exception that could be thrown by "getWriter": IOException.( ¬èüıÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ô™€¬şÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Óá­šùÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Òµ´ 
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ÿì¿üÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¨İÃ¢
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(·Ô™‡ÿÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(èå£›øÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(²¥è¶ùÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¼Íéãüÿÿÿÿ
+H
+java:S1068"-Remove this unused "foodStand" private field.(Ô™€¬şÿÿÿÿ
+C
+java:S1068"(Remove this unused "cart" private field.(Óá­šùÿÿÿÿ

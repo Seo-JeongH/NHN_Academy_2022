@@ -1,0 +1,18 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "buyList".(›ÆÁ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(æ”±ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(·ûôÉ
+B
+java:S1481",Remove this unused "buyList" local variable.(›ÆÁ
+Q	java:S125"<This block of commented-out lines of code should be removed.(——
+Q	java:S125"<This block of commented-out lines of code should be removed.(ƒòóÅ
+V	java:S125"<This block of commented-out lines of code should be removed.(™ã¡íùÿÿÿÿ
+V	java:S125""<This block of commented-out lines of code should be removed.(Ä£€éıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Şöıÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ÿ–º«
+H
+java:S11352"2Complete the task associated to this TODO comment.(…ïœ†
+V	java:S125:"<This block of commented-out lines of code should be removed.(¸¨•öûÿÿÿÿ
+Q	java:S125\"<This block of commented-out lines of code should be removed.(Ú–§»
